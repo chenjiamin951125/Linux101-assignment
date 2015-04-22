@@ -1,9 +1,4 @@
-#
-#
-# useradd
-# chpasswd
-# chown
-# chmod
-# edquota
-#
+#!/bin/bash
+#This is our first script
+echo 'Hello World!'
 
